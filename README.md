@@ -72,14 +72,17 @@ curl -X POST http://localhost:5000/answer ^
 
 ### `python run.py`
 
+<img width="2032" height="478" alt="run_dot_py_output" src="https://github.com/user-attachments/assets/ef4778c5-abc6-415a-9fcf-caba923fe83c" />
 
 
 ### `python validate.py`
 
+<img width="610" height="90" alt="run_validate_py_output" src="https://github.com/user-attachments/assets/677da7c1-9ea0-451a-bb2b-b2455db87479" />
 
 
 ### `python scripts/test_api.py`
 
+<img width="883" height="866" alt="testing_api_output" src="https://github.com/user-attachments/assets/dd80ff9c-9acc-4a3c-ae8c-567bd52fbd3d" />
 
 
 ## Design notes
