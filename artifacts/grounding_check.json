@@ -1,0 +1,67 @@
+[
+  {
+    "query_id": "Q1",
+    "answer_label": "grounded_answer",
+    "citations_checked": [
+      {
+        "citation": "[Cash withdrawal processing §cash-withdrawal-processing_p2]",
+        "exists_in_retrieval": true,
+        "supported": true,
+        "overlap_count": 7
+      }
+    ],
+    "all_citations_supported": true
+  },
+  {
+    "query_id": "Q2",
+    "answer_label": "grounded_answer",
+    "citations_checked": [
+      {
+        "citation": "[Password reset and account recovery §password-reset-and-account-recovery_p2]",
+        "exists_in_retrieval": true,
+        "supported": true,
+        "overlap_count": 6
+      }
+    ],
+    "all_citations_supported": true
+  },
+  {
+    "query_id": "Q3",
+    "answer_label": "grounded_answer",
+    "citations_checked": [
+      {
+        "citation": "[Password reset and account recovery §password-reset-and-account-recovery_p3]",
+        "exists_in_retrieval": true,
+        "supported": true,
+        "overlap_count": 8
+      }
+    ],
+    "all_citations_supported": true
+  },
+  {
+    "query_id": "Q4",
+    "answer_label": "grounded_answer",
+    "citations_checked": [
+      {
+        "citation": "[Document verification requirements §document-verification-requirements_p3]",
+        "exists_in_retrieval": true,
+        "supported": true,
+        "overlap_count": 2
+      }
+    ],
+    "all_citations_supported": true
+  },
+  {
+    "query_id": "Q5",
+    "answer_label": "grounded_answer",
+    "citations_checked": [
+      {
+        "citation": "[Demo account behaviour §demo-account-behaviour_p3]",
+        "exists_in_retrieval": true,
+        "supported": true,
+        "overlap_count": 4
+      }
+    ],
+    "all_citations_supported": true
+  }
+]

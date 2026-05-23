@@ -1,0 +1,207 @@
+[
+  {
+    "query_id": "Q1",
+    "question": "I requested a bank withdrawal yesterday. How long can it take after approval?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "cash-withdrawal-processing_p2",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.8777438402175903,
+        "chunk_text": "Bank withdrawals may take 1 to 3 business days after approval."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "cash-withdrawal-processing_p3",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.7220278978347778,
+        "chunk_text": "E-wallet withdrawals are typically processed within 4 hours after approval."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "cash-withdrawal-processing_p1",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.6265666484832764,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "cash-withdrawal-processing_p4",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.5957915782928467,
+        "chunk_text": "If an account is under compliance review, withdrawals remain pending until the review is completed."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "cash-withdrawal-processing_p5",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.38695454597473145,
+        "chunk_text": "Users can check the withdrawal status from the cashier history page."
+      }
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "question": "My reset link is not working after an hour. Is that expected?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "password-reset-and-account-recovery_p2",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.727178156375885,
+        "chunk_text": "Reset links expire after 30 minutes."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "password-reset-and-account-recovery_p1",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.3171927332878113,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "password-reset-and-account-recovery_p5",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.25618699193000793,
+        "chunk_text": "If backup codes are unavailable, the user must complete identity verification before 2FA can be reset."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "cash-withdrawal-processing_p1",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.21729078888893127,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "cash-withdrawal-processing_p3",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.18846137821674347,
+        "chunk_text": "E-wallet withdrawals are typically processed within 4 hours after approval."
+      }
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "question": "Can support tell me what my password currently is?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "password-reset-and-account-recovery_p3",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.5574380159378052,
+        "chunk_text": "For security reasons, support agents cannot see or manually reveal user passwords."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "password-reset-and-account-recovery_p1",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.48839062452316284,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "password-reset-and-account-recovery_p4",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.3886512517929077,
+        "chunk_text": "If two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "cash-withdrawal-processing_p5",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.300123393535614,
+        "chunk_text": "Users can check the withdrawal status from the cashier history page."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "password-reset-and-account-recovery_p5",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.2390677034854889,
+        "chunk_text": "If backup codes are unavailable, the user must complete identity verification before 2FA can be reset."
+      }
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "question": "Will a utility bill from 8 months ago work for proof of address?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "document-verification-requirements_p3",
+        "doc_title": "Document verification requirements",
+        "score": 0.6178207993507385,
+        "chunk_text": "Utility bills older than 6 months are not accepted."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "document-verification-requirements_p2",
+        "doc_title": "Document verification requirements",
+        "score": 0.4151960611343384,
+        "chunk_text": "Proof of address documents must show the user's full name, address, and issue date."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "document-verification-requirements_p4",
+        "doc_title": "Document verification requirements",
+        "score": 0.3845193386077881,
+        "chunk_text": "Bank statements older than 3 months are not accepted."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "password-reset-and-account-recovery_p5",
+        "doc_title": "Password reset and account recovery",
+        "score": 0.303341269493103,
+        "chunk_text": "If backup codes are unavailable, the user must complete identity verification before 2FA can be reset."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "document-verification-requirements_p1",
+        "doc_title": "Document verification requirements",
+        "score": 0.3018762767314911,
+        "chunk_text": "Proof of identity documents must be valid and unexpired."
+      }
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "question": "Can I withdraw profit made on a demo account?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "demo-account-behaviour_p3",
+        "doc_title": "Demo account behaviour",
+        "score": 0.74471515417099,
+        "chunk_text": "Demo profit cannot be withdrawn."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "demo-account-behaviour_p1",
+        "doc_title": "Demo account behaviour",
+        "score": 0.5370340347290039,
+        "chunk_text": "Demo accounts use virtual funds and do not reflect real-market execution exactly."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "cash-withdrawal-processing_p5",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.35228097438812256,
+        "chunk_text": "Users can check the withdrawal status from the cashier history page."
+      },
+      {
+        "rank": 4,
+        "chunk_id": "demo-account-behaviour_p4",
+        "doc_title": "Demo account behaviour",
+        "score": 0.3458127975463867,
+        "chunk_text": "Users should switch to a real account to trade with real funds."
+      },
+      {
+        "rank": 5,
+        "chunk_id": "cash-withdrawal-processing_p4",
+        "doc_title": "Cash withdrawal processing",
+        "score": 0.3185289204120636,
+        "chunk_text": "If an account is under compliance review, withdrawals remain pending until the review is completed."
+      }
+    ]
+  }
+]

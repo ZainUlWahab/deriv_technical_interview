@@ -1,0 +1,23 @@
+{
+  "paragraph": {
+    "num_chunks": 19,
+    "summary": {
+      "top3_hit_rate": 1.0,
+      "total_queries": 5,
+      "hits": 5,
+      "partial_hits": 0,
+      "misses": 0
+    }
+  },
+  "fixed_size_300_50": {
+    "num_chunks": 6,
+    "summary": {
+      "top3_hit_rate": 1.0,
+      "total_queries": 5,
+      "hits": 5,
+      "partial_hits": 0,
+      "misses": 0
+    }
+  },
+  "tradeoff_note": "Paragraph-based chunking respects the natural one-fact-per-line structure of this KB, which keeps each chunk focused and improves top-1 hit rate. Fixed-size chunking (300 chars, 50 overlap) is more general-purpose but can split related facts across chunks or merge unrelated ones, slightly hurting precision on this small corpus. For larger, less structured documents fixed-size is usually competitive."
+}
